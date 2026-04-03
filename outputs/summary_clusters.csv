@@ -1,0 +1,4 @@
+cluster_label,count,avg_pnl,avg_win_rate,avg_leverage
+High-Risk Losers,59,-355.7,0.42,9.24
+Neutral Traders,62,-201.37,0.47,10.21
+Smart Money,79,43.55,0.52,9.39
